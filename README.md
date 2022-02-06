@@ -1,16 +1,15 @@
-# todo_firebase
+# To Do List Firebase Application
 
-A new Flutter project.
+In this application, user can create new tasks and delete the unwanted tasks. All the tasks that are created by user gets stored in the database, and also data is deleted if user deletes any task. For database I have used Firebase Firestore.
 
-## Getting Started
+<br>
+<p align="center" width="100%">
+  <img width="275" height="600" src="./screenshot/empty.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="275" height="600" src="./screenshot/add.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="275" height="600" src="./screenshot/lists.png">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="./screenshot/firestore.png">
