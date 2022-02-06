@@ -5,9 +5,7 @@ In this application, user can create new tasks and delete the unwanted tasks. Al
 <br>
 <p align="center" width="100%">
   <img width="275" height="600" src="./screenshot/empty.png">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="275" height="600" src="./screenshot/add.png">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="275" height="600" src="./screenshot/lists.png">
 </p>
 
