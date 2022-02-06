@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280187990925",
+    "project_id": "tutorial-firebase-293c6",
+    "storage_bucket": "tutorial-firebase-293c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280187990925:android:a1bdea9461b912b1d783c4",
+        "android_client_info": {
+          "package_name": "com.example.todo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280187990925-hpur70r1ur8go4n3njq07v2ll5u1d0cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXjmIpTnwwKBX_avjqFv85ZkTQn3Nk8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280187990925-hpur70r1ur8go4n3njq07v2ll5u1d0cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
